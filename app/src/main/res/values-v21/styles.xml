@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:ThemeOverlay.Material.Light">
+        <item name="android:colorPrimary">@color/md_pink_A400</item>
+        <item name="android:colorAccent">@color/md_purple_500</item>
+        <item name="android:colorPrimaryDark">@color/md_pink_A700</item>
+        <item name="android:windowBackground">@color/md_white_1000</item>
+        <item name="android:textColorPrimary">@color/md_text_white</item>
+        <item name="android:textColor">@color/md_black_1000_75</item>
+
+    </style>
+</resources>
